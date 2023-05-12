@@ -13,7 +13,7 @@ export default function Navbar() {
         </ul>
       </nav>
       <div className="banner">
-        <Image src="/banner.png" width={1800} height={276} />
+        <Image src="/Holy-Bible.jpg" width={1800} height={400} />
       </div>
     </div>
   )
